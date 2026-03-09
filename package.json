@@ -1,7 +1,7 @@
 {
   "name": "whale-shark",
-  "version": "0.1.0",
-  "description": "🐋 WhaleWatch - 巨鲸追踪，监控大户钱包动向",
+  "version": "1.0.0",
+  "description": "🐋 WhaleShark - 巨鲸追踪，大额转账监控 + 持仓分析 + 聪明钱",
   "main": "scripts/whale.mjs",
   "type": "module",
   "scripts": {

@@ -1,0 +1,18 @@
+{
+  "alerts": [
+    {
+      "id": 1772800720122,
+      "whale": "0x8f3B",
+      "minAmount": 100000,
+      "createdAt": "2026-03-06T12:38:40.122Z",
+      "triggered": false
+    },
+    {
+      "id": 1772800974395,
+      "whale": "0x8f3B",
+      "minAmount": 50000,
+      "createdAt": "2026-03-06T12:42:54.395Z",
+      "triggered": false
+    }
+  ]
+}

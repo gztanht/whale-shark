@@ -1,0 +1,28 @@
+{
+  "name": "whale-shark",
+  "displayName": "🐋 WhaleShark",
+  "version": "1.0.0",
+  "description": "巨鲸钱包追踪器 - 大额转账监控，持仓分析，聪明钱追踪，跟着大户赚钱",
+  "author": "@gztanht",
+  "license": "MIT",
+  "pricing": {
+    "model": "freemium",
+    "freeQuota": 5,
+    "freeQuotaPeriod": "daily",
+    "unlimitedPrice": "0.5",
+    "unlimitedCurrency": "USDT"
+  },
+  "category": "crypto",
+  "tags": ["whale", "tracking", "onchain", "analysis", "monitoring", "defi"],
+  "features": [
+    "大额转账监控",
+    "持仓分析",
+    "聪明钱追踪",
+    "转账历史",
+    "价格警报"
+  ],
+  "repository": "https://github.com/gztanht/whale-shark",
+  "homepage": "https://clawhub.com/skills/whale-shark",
+  "createdAt": "2026-03-06",
+  "updatedAt": "2026-03-09"
+}
